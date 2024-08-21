@@ -2,7 +2,11 @@ body {
   color: black;
 }
 .hihi {
+<<<<<<< HEAD
   background-color: red;
+=======
+  background-color: yellow;
+>>>>>>> 35dc7a40bd1cc6f163946f572f31e91460004aee
 }
 .kkk {
   color: blue;
